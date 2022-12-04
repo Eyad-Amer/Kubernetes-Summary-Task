@@ -13,7 +13,7 @@
 
 
 ### Dockerized and Published on dockerhub
-![Screenshot_3](https://user-images.githubusercontent.com/40535130/205507218-aaf34eb1-31f4-4662-ad85-ba1ef414f314.png)
+![Screenshot_3](https://user-images.githubusercontent.com/40535130/205516387-3a4b1f7c-626d-4115-984b-5e3089cf3755.png)
 
 
 
