@@ -20,14 +20,14 @@
 ------------
 
 
-##Run 
+## Run 
 
-###Clone the project
+### Clone the project
 ###### git clone https://github.com/Eyad-Amer/Kubernetes-Summary-Task.git
 
 ------------
 
-###Go to the project directory
+### Go to the project directory
 ###### cd Kubernetes-Summary-Task
 
 ------------
@@ -37,12 +37,12 @@
 
 ------------
 
-###Apply the yml Files
+### Apply the yml Files
 ###### kubectl apply -f .
 
 ------------
 
-###Enagle ingress plugin
+### Enagle ingress plugin
 ######   minikube addons enable ingress
   
 ------------
@@ -64,7 +64,7 @@
 
 ------------
 
-###BitCoin LocalHost
+### BitCoin LocalHost
 ###### localhost:8000
 ![browser app](https://user-images.githubusercontent.com/40535130/205506994-e83033aa-d265-4277-a3cd-d76aef072aa6.jpg)
 
