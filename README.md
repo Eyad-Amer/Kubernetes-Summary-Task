@@ -58,7 +58,7 @@
 
 ------------
 
-### minikube deployment
+### Start minikube tunnel
 ###### minikube tunnel
 
 
